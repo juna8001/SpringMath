@@ -1,5 +1,5 @@
 # SpringMath
-Simple library with implementation of spring physics for float, Vector2 and Vector3 values.
+Simple Unity package with implementation of spring physics for float, Vector2 and Vector3 values.
 
 Here is a sample class using spring to attract game object to the start position.
 
