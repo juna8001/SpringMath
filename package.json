@@ -1,0 +1,14 @@
+{
+  "name": "com.juna8001.springmath",
+  "displayName": "Spring Math",
+  "version": "0.1.0",
+  "unity": "2018.1",
+  "description": "Mathematical functions for spring morion.",
+  "keywords": [
+    "math"
+  ],
+  "author": {
+    "name": "Kamil Maslanka",
+    "url": ""
+  }
+}
