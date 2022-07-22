@@ -25,15 +25,5 @@ namespace SpringMath
             get => _velocity;
             set => _velocity = value;
         }
-
-        protected override void ChangeVelocity(T delta)
-        {
-            _velocity = Add(_velocity, delta);
-        }
-
-        protected override void ChangePosition(T delta)
-        {
-            _position = Add(_position, delta);
-        }
     }
 }
